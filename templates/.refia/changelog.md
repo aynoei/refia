@@ -1,0 +1,3 @@
+# CHANGELOG
+
+Sem entradas ainda.
